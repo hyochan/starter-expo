@@ -1,5 +1,5 @@
-# Sample App is developed with Starter Project
-# Helpful starter project for react-native
+# Sample App is developed with Expo Project
+# Helpful starter project to start react-native with expo.
 
 # Directories are well structured
 1. There are sample of redux and action.
